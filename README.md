@@ -9,8 +9,9 @@
      and how to then push those files to various remote branches. I also know how to 
      merge branches, get the status of branches, and make new branches. I also learned 
      how to create and pull from online repositories. 
-
-
+     
+## Collaborators
+    Christopher Fulton is a collaborator
 
 
 
